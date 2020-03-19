@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Handless Handle
 
-You can use the [editor on GitHub](https://github.com/dalton5000/handle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Handless Handle is designed to avoid germs. Description goes here
+Its public license and can be distributed and modified etc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instructions
 
-### Markdown
+###3D Printing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How to print goes here
 
-```markdown
-Syntax highlighted code block
+###Modification
 
-# Header 1
-## Header 2
-### Header 3
+How to modifiy goes here
 
-- Bulleted
-- List
+## Contribution
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dalton5000/handle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+How to contribute and contant me goes here
