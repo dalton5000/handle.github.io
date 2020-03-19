@@ -4,6 +4,11 @@
 The Handless Handle is designed to avoid germs. Description goes here
 Its public license and can be distributed and modified etc
 
+## Downloads
+Link to github release
+Link to thingyverse etc
+
+
 ## Instructions
 
 ### 3D Printing
