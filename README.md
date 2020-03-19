@@ -5,11 +5,11 @@ Its public license and can be distributed and modified etc
 
 ## Instructions
 
-###3D Printing
+### 3D Printing
 
 How to print goes here
 
-###Modification
+### Modification
 
 How to modifiy goes here
 
